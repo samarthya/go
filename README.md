@@ -8,3 +8,10 @@ src
  - package name
 ```
 
+## Getting the package
+You can use
+
+```
+go get github.com/samarthya/go
+
+```
